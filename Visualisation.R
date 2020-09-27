@@ -1,5 +1,5 @@
-## 
-## visualisations
+## A principal component approach to analysing the 1000 Genome Project data through R
+## data analysis and visualisations
 devtools::install_github
 library(devtools)             ## needs running bfore vqv/ggbiplot - 
 install.packages("installr")
